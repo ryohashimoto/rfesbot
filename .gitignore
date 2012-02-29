@@ -1,0 +1,8 @@
+*~
+db.sqlite3
+example_feeds/
+example_nodes/
+festivals_rss.json
+festivals.json
+*.tmproj
+test*
